@@ -3,3 +3,5 @@ moc_*
 *.a
 nbproject
 NEW_OFC_GUI
+/qrc_NEW_OFC_GUI.cpp
+/ui_mainwindow.h
