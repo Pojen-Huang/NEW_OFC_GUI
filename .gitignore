@@ -1,0 +1,5 @@
+moc_*
+*.o
+*.a
+nbproject
+NEW_OFC_GUI
