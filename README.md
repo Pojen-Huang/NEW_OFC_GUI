@@ -6,7 +6,7 @@ developed on Qt4 framework. This application is intetrated and communicate
 with Floodlight controller and provides dynamic topology view which
 the data is via Floodlight REST APIs.
 
-![The image of NEW_OFC_GUI](https://github.com/teyenliu/NEW_OFC_GUI/blob/master/NEW_OFC_GUI.png)
+![GUI](https://github.com/teyenliu/NEW_OFC_GUI/blob/master/NEW_OFC_GUI.png)
 
 This application is currently providing dynamic topology view only.
 For further enhancement, it will provide flow and port loading information.
